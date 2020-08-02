@@ -21,7 +21,14 @@ CMake  🕓 0s ░░░░░░░░░░░░░░░░░░░░░�
 
 
  <!-- steam-box start -->
- <!-- steam-box end -->
+#### <a href="https://gist.github.com/afc28dc1b85d9bc5cebfbe9d5e3639db" target="_blank">Steam Recently Played Games</a>
+```text
+Hollow Knight                       1 hrs 4 mins
+Stardew Valley                      1 hrs 3 mins
+Nuclear Throne                      0 hrs 11 mins
+```
+<!-- Powered by https://github.com/YouEclipse/steam-box . -->
+<!-- steam-box end -->
 
 <!--
 **KomoreKalu/KomoreKalu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
