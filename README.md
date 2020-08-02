@@ -9,13 +9,13 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 
 <!-- waka-box start -->
-#### <a href="https://gist.github.com/bf274261b4c8553e17fc709dfc3cfa97" target="_blank">📊 每周工作报告</a>
+#### <a href="https://gist.github.com/bf274261b4c8553e17fc709dfc3cfa97" target="_blank">Weekly development breakdown</a>
 ```text
 C++    🕓 8m ██████████████████████████████▌░░░░ 87.4%
 Python 🕓 1m ████▍░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 12.6%
 CMake  🕓 0s ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  0.0%
 ```
-<!-- Powered by https://github.com/journey-ad/waka-box-go . -->
+<!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
 
 
