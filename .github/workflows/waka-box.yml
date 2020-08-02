@@ -1,4 +1,4 @@
-name: Update WakaTime stats
+name: Update wakatime stats
 
 on:
   push:
@@ -33,7 +33,7 @@ jobs:
       - uses: actions/setup-go@v2
       - name: Clone and run waka-box
         run: |-
-          git clone https://github.com/KomoreKalu/waka-box-go.git 
+          git clone https://github.com/journey-ad/waka-box-go.git
           cd waka-box-go && go build -o waka ./cmd/box/main.go
           mv ./waka ../ && cd .. && rm -rf waka-box-go/
       - name: Commit and push
@@ -43,4 +43,3 @@ jobs:
           git diff
           git add README.md && git commit -m ":memo: update profile" || exit 0
           git pull && git push
-          
