@@ -23,8 +23,8 @@ Python      	 1m  ▋░░░░░░░░░░░░░░░░░░░�
 #### <a href="https://gist.github.com/afc28dc1b85d9bc5cebfbe9d5e3639db" target="_blank">Steam Recently Played Games</a>
 ```text
 Hollow Knight                       1 hrs 4 mins
+Finding Paradise                    3 hrs 34 mins
 Nuclear Throne                      0 hrs 11 mins
-Finding Paradise                    1 hrs 33 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
