@@ -25,6 +25,7 @@ XML     	 0s  ░░░░░░░░░░░░░░░░░░░░░░
 Hollow Knight                       1 hrs 4 mins
 Finding Paradise                    3 hrs 34 mins
 Nuclear Throne                      0 hrs 11 mins
+The Mirror Lied                     0 hrs 35 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
