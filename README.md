@@ -25,7 +25,7 @@ Other   	 0s  ▎░░░░░░░░░░░░░░░░░░░░░
 Hollow Knight                       1 hrs 4 mins
 Stardew Valley                      1 hrs 58 mins
 Finding Paradise                    3 hrs 34 mins
-Muse Dash                           0 hrs 25 mins
+Unrailed!                           1 hrs 17 mins
 The Mirror Lied                     0 hrs 54 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
