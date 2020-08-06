@@ -25,7 +25,7 @@ Python  	 5m  ██▏░░░░░░░░░░░░░░░░░░░
 Hollow Knight                       1 hrs 4 mins
 Stardew Valley                      1 hrs 58 mins
 Finding Paradise                    3 hrs 34 mins
-Unrailed!                           3 hrs 7 mins
+Unrailed!                           3 hrs 54 mins
 The Mirror Lied                     0 hrs 54 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
