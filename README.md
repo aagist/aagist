@@ -23,7 +23,7 @@ XML         	 0s    ░░░░░░░░░░░░░░░░░░░░
 #### <a href="https://gist.github.com/afc28dc1b85d9bc5cebfbe9d5e3639db" target="_blank">Steam Recently Played Games</a>
 ```text
 The Binding of Isaac: Rebirth       0 hrs 30 mins
-Stardew Valley                      1 hrs 58 mins
+Stardew Valley                      2 hrs 16 mins
 Finding Paradise                    3 hrs 34 mins
 Unrailed!                           5 hrs 0 mins
 The Mirror Lied                     0 hrs 54 mins
