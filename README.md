@@ -19,7 +19,7 @@ C++  	 1h6m ██████████████████████�
 #### <a href="https://gist.github.com/afc28dc1b85d9bc5cebfbe9d5e3639db" target="_blank">Steam Recently Played Games</a>
 ```text
 Stardew Valley                      2 hrs 53 mins
-Nuclear Throne                      1 hrs 56 mins
+Nuclear Throne                      2 hrs 41 mins
 Finding Paradise                    3 hrs 34 mins
 Unrailed!                           5 hrs 0 mins
 The Mirror Lied                     0 hrs 54 mins
