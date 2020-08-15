@@ -20,7 +20,7 @@ C++  	 1h6m ██████████████████████�
 ```text
 Stardew Valley                      2 hrs 53 mins
 Finding Paradise                    3 hrs 34 mins
-Nuclear Throne                      1 hrs 3 mins
+Nuclear Throne                      1 hrs 27 mins
 Unrailed!                           5 hrs 0 mins
 The Mirror Lied                     0 hrs 54 mins
 ```
