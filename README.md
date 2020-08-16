@@ -19,9 +19,9 @@ Python  	 14m  ██████░░░░░░░░░░░░░░░�
  <!-- steam-box start -->
 #### <a href="https://gist.github.com/afc28dc1b85d9bc5cebfbe9d5e3639db" target="_blank">Steam Recently Played Games</a>
 ```text
+The Binding of Isaac: Rebirth       0 hrs 30 mins
 Stardew Valley                      2 hrs 53 mins
-Nuclear Throne                      4 hrs 17 mins
-Finding Paradise                    1 hrs 58 mins
+Nuclear Throne                      4 hrs 49 mins
 Unrailed!                           5 hrs 0 mins
 The Mirror Lied                     0 hrs 54 mins
 ```
