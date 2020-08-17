@@ -23,7 +23,7 @@ The Binding of Isaac: Rebirth       0 hrs 30 mins
 Stardew Valley                      2 hrs 53 mins
 Nuclear Throne                      4 hrs 49 mins
 Unrailed!                           5 hrs 0 mins
-The Mirror Lied                     0 hrs 54 mins
+Muse Dash                           0 hrs 25 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
