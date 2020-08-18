@@ -20,7 +20,7 @@ Python  	 14m ████████░░░░░░░░░░░░░░
 #### <a href="https://gist.github.com/afc28dc1b85d9bc5cebfbe9d5e3639db" target="_blank">Steam Recently Played Games</a>
 ```text
 The Binding of Isaac: Rebirth       0 hrs 30 mins
-Stardew Valley                      2 hrs 41 mins
+Stardew Valley                      0 hrs 55 mins
 Nuclear Throne                      7 hrs 18 mins
 Unrailed!                           5 hrs 0 mins
 Undertale                           0 hrs 1 mins
