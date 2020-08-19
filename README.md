@@ -21,7 +21,7 @@ C++     	 9m  █████████████▎░░░░░░░░
 ```text
 The Binding of Isaac: Rebirth       0 hrs 30 mins
 Stardew Valley                      0 hrs 55 mins
-Nuclear Throne                      10 hrs 5 mins
+Nuclear Throne                      10 hrs 15 mins
 Unrailed!                           1 hrs 53 mins
 Undertale                           0 hrs 9 mins
 ```
