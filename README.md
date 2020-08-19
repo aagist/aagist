@@ -21,8 +21,8 @@ Python  	 14m ████████▌░░░░░░░░░░░░░
 ```text
 The Binding of Isaac: Rebirth       0 hrs 30 mins
 Stardew Valley                      0 hrs 55 mins
-Nuclear Throne                      7 hrs 45 mins
-Unrailed!                           3 hrs 43 mins
+Nuclear Throne                      8 hrs 46 mins
+Unrailed!                           3 hrs 7 mins
 Undertale                           0 hrs 9 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
