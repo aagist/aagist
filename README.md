@@ -22,7 +22,7 @@ Text    	 3m  █▌░░░░░░░░░░░░░░░░░░░░
 ```text
 The Binding of Isaac: Rebirth       0 hrs 30 mins
 Stardew Valley                      0 hrs 55 mins
-Nuclear Throne                      10 hrs 22 mins
+Nuclear Throne                      10 hrs 21 mins
 Undertale                           1 hrs 33 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
