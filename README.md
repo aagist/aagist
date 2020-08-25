@@ -20,7 +20,6 @@ Text    	 3m  █▌░░░░░░░░░░░░░░░░░░░░
  <!-- steam-box start -->
 #### <a href="https://gist.github.com/afc28dc1b85d9bc5cebfbe9d5e3639db" target="_blank">Steam Recently Played Games</a>
 ```text
-The Binding of Isaac: Rebirth       0 hrs 30 mins
 Stardew Valley                      0 hrs 55 mins
 Nuclear Throne                      10 hrs 21 mins
 Undertale                           1 hrs 33 mins
