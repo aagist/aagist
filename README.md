@@ -20,7 +20,7 @@ Text    	 9m    ██▌░░░░░░░░░░░░░░░░░░�
  <!-- steam-box start -->
 #### <a href="https://gist.github.com/afc28dc1b85d9bc5cebfbe9d5e3639db" target="_blank">Steam Recently Played Games</a>
 ```text
-Stardew Valley                      0 hrs 55 mins
+Stardew Valley                      0 hrs 15 mins
 Nuclear Throne                      10 hrs 5 mins
 Undertale                           1 hrs 33 mins
 ```
