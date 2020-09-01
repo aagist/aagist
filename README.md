@@ -20,7 +20,7 @@ Text    	 9m  █████████░░░░░░░░░░░░░
 #### <a href="https://gist.github.com/afc28dc1b85d9bc5cebfbe9d5e3639db" target="_blank">Steam Recently Played Games</a>
 ```text
 Oxygen Not Included                 0 hrs 31 mins
-Nuclear Throne                      6 hrs 18 mins
+Nuclear Throne                      4 hrs 51 mins
 Undertale                           1 hrs 31 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
