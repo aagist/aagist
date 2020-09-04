@@ -20,7 +20,6 @@ Text  	 3m ███████████████████████
 ```text
 Oxygen Not Included                 0 hrs 31 mins
 Nuclear Throne                      8 hrs 49 mins
-Undertale                           1 hrs 23 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
