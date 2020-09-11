@@ -20,7 +20,6 @@ Other   	 1m  ███▌░░░░░░░░░░░░░░░░░░
  <!-- steam-box start -->
 #### <a href="https://gist.github.com/afc28dc1b85d9bc5cebfbe9d5e3639db" target="_blank">Steam Recently Played Games</a>
 ```text
-Oxygen Not Included                 0 hrs 2 mins
 Nuclear Throne                      15 hrs 44 mins
 Undertale                           1 hrs 7 mins
 ```
