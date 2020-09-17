@@ -18,8 +18,8 @@ Still Gathering Statistics...
  <!-- steam-box start -->
 #### <a href="https://gist.github.com/afc28dc1b85d9bc5cebfbe9d5e3639db" target="_blank">Steam Recently Played Games</a>
 ```text
-Nuclear Throne                      15 hrs 4 mins
-Undertale                           1 hrs 7 mins
+Nuclear Throne                      14 hrs 11 mins
+Undertale                           2 hrs 48 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
