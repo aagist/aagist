@@ -18,6 +18,7 @@ Still Gathering Statistics...
  <!-- steam-box start -->
 #### <a href="https://gist.github.com/afc28dc1b85d9bc5cebfbe9d5e3639db" target="_blank">Steam Recently Played Games</a>
 ```text
+Stardew Valley                      0 hrs 23 mins
 Nuclear Throne                      10 hrs 19 mins
 Undertale                           4 hrs 53 mins
 ```
