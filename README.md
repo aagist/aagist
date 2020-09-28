@@ -24,7 +24,7 @@ The Binding of Isaac: Rebirth       0 hrs 1 mins
 Stardew Valley                      0 hrs 23 mins
 Nuclear Throne                      0 hrs 14 mins
 Undertale                           3 hrs 46 mins
-Unrailed!                           1 hrs 42 mins
+Unrailed!                           2 hrs 20 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
