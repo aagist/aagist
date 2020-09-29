@@ -25,7 +25,7 @@ CMake   	 0s  ░░░░░░░░░░░░░░░░░░░░░░
 The Binding of Isaac: Rebirth       0 hrs 1 mins
 Stardew Valley                      0 hrs 23 mins
 Nuclear Throne                      0 hrs 14 mins
-Unrailed!                           2 hrs 51 mins
+Unrailed!                           4 hrs 38 mins
 Undertale                           3 hrs 46 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
