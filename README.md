@@ -25,7 +25,6 @@ CMake   	 0s   ░░░░░░░░░░░░░░░░░░░░░�
 The Binding of Isaac: Rebirth       0 hrs 1 mins
 Stardew Valley                      0 hrs 23 mins
 Unrailed!                           6 hrs 32 mins
-Undertale                           0 hrs 46 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
