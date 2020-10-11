@@ -22,7 +22,7 @@ CMake  	 0s  ░░░░░░░░░░░░░░░░░░░░░░�
 ```text
 The Binding of Isaac: Rebirth       0 hrs 1 mins
 Unrailed!                           7 hrs 22 mins
-Undertale                           4 hrs 14 mins
+Undertale                           4 hrs 18 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
