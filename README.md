@@ -21,8 +21,8 @@ CMake  	 0s  ░░░░░░░░░░░░░░░░░░░░░░�
 #### <a href="https://gist.github.com/afc28dc1b85d9bc5cebfbe9d5e3639db" target="_blank">Steam Recently Played Games</a>
 ```text
 The Binding of Isaac: Rebirth       0 hrs 1 mins
+Undertale                           4 hrs 52 mins
 Unrailed!                           7 hrs 22 mins
-Undertale                           4 hrs 18 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
