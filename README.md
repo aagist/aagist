@@ -8,7 +8,7 @@
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/bf274261b4c8553e17fc709dfc3cfa97" target="_blank">Weekly development breakdown</a>
 ```text
-C++    	 1h10m ████████████████████████████████▋   99.2% 
+C++    	 1h14m ████████████████████████████████▋   99.2% 
 C      	 0s    ▏░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    0.5% 
 CMake  	 0s    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    0.3% 
 ```
