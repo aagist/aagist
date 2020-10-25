@@ -18,7 +18,6 @@ C++  	 0s ███████████████████████�
  <!-- steam-box start -->
 #### <a href="https://gist.github.com/afc28dc1b85d9bc5cebfbe9d5e3639db" target="_blank">Steam Recently Played Games</a>
 ```text
-Undertale                           0 hrs 10 mins
 Mirror's Edge                       0 hrs 33 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
