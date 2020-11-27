@@ -16,14 +16,6 @@ Bash        	 6m  ████████▏░░░░░░░░░░░�
 
 
 
- <!-- steam-box start -->
-#### <a href="https://gist.github.com/afc28dc1b85d9bc5cebfbe9d5e3639db" target="_blank">Steam Recently Played Games</a>
-```text
-Haven't played games recently
-```
-<!-- Powered by https://github.com/YouEclipse/steam-box . -->
-<!-- steam-box end -->
-
 <!--
 **KomoreKalu/KomoreKalu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
