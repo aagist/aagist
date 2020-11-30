@@ -8,8 +8,8 @@
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/bf274261b4c8553e17fc709dfc3cfa97" target="_blank">Weekly development breakdown</a>
 ```text
-JavaScript  	 17m █████████████████████▉░░░░░░░░   73.3% 
-Bash        	 6m  ████████░░░░░░░░░░░░░░░░░░░░░░   26.7% 
+JavaScript  	 17m ███████████████████████▉░░░░░░   79.8% 
+Bash        	 4m  ██████░░░░░░░░░░░░░░░░░░░░░░░░   20.2% 
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
