@@ -8,9 +8,9 @@
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/bf274261b4c8553e17fc709dfc3cfa97" target="_blank">Weekly development breakdown</a>
 ```text
-Bash                 	 46m █████████████████▍░░░   82.9% 
-Sublime Text Config  	 8m  ███▎░░░░░░░░░░░░░░░░░   15.5% 
-YAML                 	 0s  ▎░░░░░░░░░░░░░░░░░░░░    1.6% 
+Bash                 	 46m █████████████████▎░░░   82.2% 
+Sublime Text Config  	 8m  ███▏░░░░░░░░░░░░░░░░░   15.4% 
+YAML                 	 1m  ▌░░░░░░░░░░░░░░░░░░░░    2.4% 
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
