@@ -8,11 +8,11 @@
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/bf274261b4c8553e17fc709dfc3cfa97" target="_blank">Weekly development breakdown</a>
 ```text
-Java                 	 1h1m ███████▍░░░░░░░░░░░░   37.0% 
-Bash                 	 46m  █████▌░░░░░░░░░░░░░░   27.9% 
-XML                  	 17m  ██▏░░░░░░░░░░░░░░░░░   10.6% 
-Markdown             	 14m  █▋░░░░░░░░░░░░░░░░░░    8.6% 
-Groovy               	 11m  █▎░░░░░░░░░░░░░░░░░░    6.8% 
+Java        	 1h40m ██████████████▏░░░░░░░░░░░░░   50.9% 
+XML         	 44m   ██████▏░░░░░░░░░░░░░░░░░░░░░   22.2% 
+Groovy      	 32m   ████▌░░░░░░░░░░░░░░░░░░░░░░░   16.4% 
+Markdown    	 15m   ██▏░░░░░░░░░░░░░░░░░░░░░░░░░    7.6% 
+Properties  	 5m    ▋░░░░░░░░░░░░░░░░░░░░░░░░░░░    2.6% 
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
