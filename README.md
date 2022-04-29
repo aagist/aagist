@@ -8,9 +8,10 @@
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/bf274261b4c8553e17fc709dfc3cfa97" target="_blank">Weekly development breakdown</a>
 ```text
-YAML   	 22m ██████████████████████████▉░░░░░░░░   77.1% 
-JSON   	 6m  ████████░░░░░░░░░░░░░░░░░░░░░░░░░░░   22.9% 
-Other  	 0s  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    0.0% 
+YAML     	 43m ███████████████████████▊░░░░░░░░░   72.2% 
+JSON     	 13m ███████▌░░░░░░░░░░░░░░░░░░░░░░░░░   22.8% 
+Other    	 2m  █▌░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    4.8% 
+systemd  	 0s  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    0.1% 
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
